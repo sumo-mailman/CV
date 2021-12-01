@@ -1,6 +1,11 @@
-## Your Name
+## Josh Lim
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[Projects](https://github.com/sumo-mailman/CV#Projects) | [Skills](https://github.com/sumo-mailman/CV#skills) | [Education](https://github.com/sumo-mailman/CV#education) | [Hobbies & Interests](https://github.com/sumo-mailman/CV#hobbies) | [LinkedIn](https://www.linkedin.com/in/joshlim092/) |
+
+An entrepreneur by heart and self starter, combining my passion for technology, experience in tech startups and post-IPO companies like Uber.
+
+I strive on XXXXXXXX...
+
 
 ## Projects
 
@@ -11,8 +16,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Uber** (Feb-2019 to Dec-2021)  
+_Senior Account Executive_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
@@ -56,7 +61,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (start_date to end_date)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- you might also mention aspects some other skills/knowledge listed below:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
