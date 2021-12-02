@@ -1,18 +1,18 @@
 ## Josh Lim
 
-[Projects](https://github.com/sumo-mailman/CV#Projects) | [Skills](https://github.com/sumo-mailman/CV#skills) | [Education](https://github.com/sumo-mailman/CV#education) | [Hobbies & Interests](https://github.com/sumo-mailman/CV#hobbies) | [LinkedIn](https://www.linkedin.com/in/joshlim092/) |
+[Projects](https://github.com/sumo-mailman/CV#Projects) | [Skills](https://github.com/sumo-mailman/CV#skills) | [Education](https://github.com/sumo-mailman/CV#education) | [Hobbies & Interests](https://github.com/sumo-mailman/CV#hobbies) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
 
-An entrepreneur by heart and self starter, combining my passion for technology, experience in tech startups and post-IPO companies like Uber.
+An entrepreneur by heart and self starter, combining my passion for technology and experience in companies like Uber, to excel and extend my programming knowledge and become a value added team member.
 
 I strive on XXXXXXXX...
 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Tech/tools        | Testing Technologies |
+| ---------------------------- | ----------------- | ----------------- | -------------------- |
+| **Final project**            | A webapp to do x. | React, Jest, etc. | Jasmine, Karma, etc. |
+| **Something else worked on** | A webapp to do y. | Ruby              | Jasmine, Karma, etc. |
 
 ## Work Experience
 
