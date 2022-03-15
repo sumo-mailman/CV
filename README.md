@@ -11,7 +11,7 @@ I strive on XXXXXXXX...
 
 | Name                         | Description       | Tech/tools        | Testing Technologies |
 | ---------------------------- | ----------------- | ----------------- | -------------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. | Jasmine, Karma, etc. |
+| **Tidbits**            | Habit building application. | MERN Stack. | Jest. |
 | **Something else worked on** | A webapp to do y. | Ruby              | Jasmine, Karma, etc. |
 
 ## Work Experience
