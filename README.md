@@ -2,17 +2,17 @@
 
 [Projects](https://github.com/sumo-mailman/CV#Projects) | [Skills](https://github.com/sumo-mailman/CV#skills) | [Education](https://github.com/sumo-mailman/CV#education) | [Hobbies & Interests](https://github.com/sumo-mailman/CV#hobbies) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
 
-An entrepreneur by heart and self starter, combining my passion for technology and experience in companies like Uber, to excel and extend my programming knowledge and become a value added team member.
+I am an energetic self-starter with the ambition to grow further as a Full Stack Junior Developer. Combining my passion for technology, and background with over four years of tech experience and five years building my own company which turned over $6 mil at its peak. 
 
-I strive on XXXXXXXX...
-
+I thrive in an ambiguous environment, always maintaining a student mentality and striving to be a value-added team member in any company I join.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Testing Technologies |
 | ---------------------------- | ----------------- | ----------------- | -------------------- |
 | **Tidbits**            | Habit building application. | MERN Stack. | Jest. |
-| **Something else worked on** | A webapp to do y. | Ruby              | Jasmine, Karma, etc. |
+| **Acebook** | A clone of Zuckerberg's Facebook. | Ruby on Rails              | Jest. |
+| **MyPassword** | Random password generator for those still using 'abc123'. | Javascript              |
 
 ## Work Experience
 
