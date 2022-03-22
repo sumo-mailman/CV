@@ -8,11 +8,11 @@ I thrive in an ambiguous environment, always maintaining a student mentality and
 
 ## 👨🏻‍💻 Projects
 
-| Name           | Description                                                      | Tech/tools    | Testing Technologies |
-| -------------- | ---------------------------------------------------------------- | ------------- | -------------------- |
-| **Tidbits**    | Habit building application, that helps you build healthy habits. | MERN Stack.   | Jest.                |
-| **Acebook**    | A clone of Zuckerberg's Facebook.                                | Ruby on Rails | Jest.                |
-| **MyPassword** | Random password generator for those still using 'abc123'.        | Javascript    |
+| Name                                                                 | Description                                                      | Tech/tools    | Testing Technologies |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | -------------------- |
+| [**Tidbits**]()                                                      | Habit building application, that helps you build healthy habits. | MERN Stack.   | Jest.                |
+| **Acebook**                                                          | A clone of Zuckerberg's Facebook.                                | Ruby on Rails | Jest.                |
+| [**MyPassword**](https://github.com/sumo-mailman/password-generator) | Random password generator for those still using 'abc123'.        | Javascript    |
 
 ## 💻 Tech Stack
 
