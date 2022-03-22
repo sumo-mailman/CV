@@ -1,4 +1,8 @@
+<p align="center">
+
 ## Josh Lim
+
+</p>
 
 [Projects](https://github.com/sumo-mailman/CV#-projects) | [Tech Stack](https://github.com/sumo-mailman/CV#-tech-stack) | [Work Experience](https://github.com/sumo-mailman/CV#-work-experience) | [Education](https://github.com/sumo-mailman/CV#-education) | [Hobbies](https://github.com/sumo-mailman/CV#-a-few-things-that-keep-me-busy) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
 
@@ -59,10 +63,10 @@ _Senior Account Executive_
 
 #### Learning & Development
 
-2021 Software Engineer Bootcamp - Makers Academy
-2021 Daily Code Wars - Honor 248 (6 Kyu)
-2021 Learn Ruby, 10 hours - Codecadamy - Ruby
-2015 Graduated from Bachelor of Business majoring in Accounting & Finance
+- 2021 Software Engineer Bootcamp - Makers Academy
+- 2021 Daily Code Wars - Honor 248 (6 Kyu)
+- 2021 Learn Ruby, 10 hours - Codecadamy - Ruby
+- 2015 Graduated from Bachelor of Business majoring in Accounting & Finance
 
 ## 🚲 A few things that keep me busy
 
