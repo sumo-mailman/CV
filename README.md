@@ -36,12 +36,14 @@ _Senior Account Executive_
 - Represented Uber for Business in 3 social impact projects, including supporting FareShare to fight hunger through redistribution of surplus foods.
 
 **Ento** (Jun-2018 to Dec-2019)
+_Enterprise Account Executive_
 
 - Generated new business for leading cloud-based, SaaS and HR platform.
 - Awarded Company 2019 MVP for surpassing targets during slowest quarter with attainment of 117%.
 - Took responsibility for 3 SDRs progression supporting with call coaching and building strong outreach cadences.
 
 **Evolution Events** (Aug-2013 to Dec-2019)
+_Co-founder_
 
 - Achieved 200% YoY increase in revenue from $2mil to $6mil through national expansion, consulting services and increase in merchandise sales
 - Hired 5 full time staff and managed 100+ general contractors & casual staff.
