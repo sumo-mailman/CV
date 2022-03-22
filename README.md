@@ -1,6 +1,6 @@
 ## Josh Lim
 
-[Projects](https://github.com/sumo-mailman/CV#Projects) | [Skills](https://github.com/sumo-mailman/CV#skills) | [Education](https://github.com/sumo-mailman/CV#education) | [Hobbies & Interests](https://github.com/sumo-mailman/CV#hobbies) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
+[Projects](https://github.com/sumo-mailman/CV#-projects) | [Tech Stack](https://github.com/sumo-mailman/CV#-tech-stack) | [Work Experience](https://github.com/sumo-mailman/CV#-work-experience) | [Education](https://github.com/sumo-mailman/CV#-education) | [Hobbies](https://github.com/sumo-mailman/CV#-a-few-things-that-keep-me-busy) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
 
 I am an energetic self-starter with the ambition to grow further as a Full Stack Junior Developer. Combining my passion for technology, background of over four years of tech experience and five years building my own small business which turned over $6 mil at its peak.
 
