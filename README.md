@@ -1,8 +1,4 @@
-<p align="center">
-
-## Josh Lim
-
-</p>
+## <div align="center"> Josh Lim </div>
 
 [Projects](https://github.com/sumo-mailman/CV#-projects) | [Tech Stack](https://github.com/sumo-mailman/CV#-tech-stack) | [Work Experience](https://github.com/sumo-mailman/CV#-work-experience) | [Education](https://github.com/sumo-mailman/CV#-education) | [Hobbies](https://github.com/sumo-mailman/CV#-a-few-things-that-keep-me-busy) | [LinkedIn](https://www.linkedin.com/in/joshlim092/)
 
