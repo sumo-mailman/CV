@@ -10,7 +10,7 @@ I thrive in an ambiguous environment, always maintaining a student mentality and
 
 | Name                                                                  | Description                                                      | Tech/tools    |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- |
-| [**Tidbits Server**](https://github.com/mat-diak/snacks-server) [**Tidbits Client**](https://github.com/mikitaro-27/snacks-client)             | Habit building application, that helps you build healthy habits. | MongoDB, Express, React, Node, Jest, Heroku, Netlify, Bootstrap |
+| [**Tidbits Server**](https://github.com/mat-diak/snacks-server) <br> [**Tidbits Client**](https://github.com/mikitaro-27/snacks-client)             | Habit building application, that helps you build healthy habits. | MongoDB, Express, React, Node, Jest, Heroku, Netlify, Bootstrap |
 | [**Acebook**](https://github.com/sumo-mailman/acebook-MorkSuckerborg) | A clone of Zuckerberg's Facebook.                                | Ruby on Rails, Heroku, Jest |
 | [**MyPassword**](https://github.com/sumo-mailman/password-generator)  | Random password generator for those still using 'abc123'.        | Javascript, CSS, HTML    |
 
