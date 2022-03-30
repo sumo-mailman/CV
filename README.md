@@ -59,12 +59,14 @@ _Co-founder_
 - Completed the final team project in two weeks, learning the MERN stack with no prior experience, and developed a habit building application called ‘Tidbit'.
 - Pair programmed each afternoon during the week, which helped write higher quality code, facilitated continuous shared learnings and built an understanding of how to work with completely different individuals.
 
-#### Learning & Development
+### RMIT University
+- Acquired a Bachelor of Business
+- Double major in Accounting & Finance
 
-- 2021 Software Engineer Bootcamp - Makers Academy
-- 2021 Daily Code Wars - Honor 248 (6 Kyu)
-- 2021 Learn Ruby, 10 hours - Codecadamy - Ruby
-- 2015 Graduated from Bachelor of Business majoring in Accounting & Finance
+#### Learning & Development
+- 2021 Daily Katas - Honor 248 (6 Kyu) - Codewars
+- 2021 Learn Ruby, 10 hours - Codecadamy
+- 2021 Testing Ruby with RSpec, 7.5 hours - Udemy
 
 ## 🚲 A few things that keep me busy
 
