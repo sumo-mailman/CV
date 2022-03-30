@@ -8,11 +8,11 @@ I thrive in an ambiguous environment, always maintaining a student mentality and
 
 ## 👨🏻‍💻 Projects
 
-| Name                                                                  | Description                                                      | Tech/tools    | Testing Technologies |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | -------------------- |
-| [**Tidbits**](https://github.com/mat-diak/snacks-server)              | Habit building application, that helps you build healthy habits. | MERN Stack.   | Jest.                |
-| [**Acebook**](https://github.com/sumo-mailman/acebook-MorkSuckerborg) | A clone of Zuckerberg's Facebook.                                | Ruby on Rails | Jest.                |
-| [**MyPassword**](https://github.com/sumo-mailman/password-generator)  | Random password generator for those still using 'abc123'.        | Javascript    |
+| Name                                                                  | Description                                                      | Tech/tools    |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- |
+| **Tidbits** [server](https://github.com/mat-diak/snacks-server)              | Habit building application, that helps you build healthy habits. | MongoDB, Express, React, Node, Jest, |
+| [**Acebook**](https://github.com/sumo-mailman/acebook-MorkSuckerborg) | A clone of Zuckerberg's Facebook.                                | Ruby on Rails, Jest |
+| [**MyPassword**](https://github.com/sumo-mailman/password-generator)  | Random password generator for those still using 'abc123'.        | Javascript, CSS, HTML    |
 
 ## 💻 Tech Stack
 
