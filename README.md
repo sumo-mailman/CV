@@ -10,8 +10,8 @@ I thrive in an ambiguous environment, always maintaining a student mentality and
 
 | Name                                                                  | Description                                                      | Tech/tools    |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- |
-| **Tidbits** [server](https://github.com/mat-diak/snacks-server)              | Habit building application, that helps you build healthy habits. | MongoDB, Express, React, Node, Jest, |
-| [**Acebook**](https://github.com/sumo-mailman/acebook-MorkSuckerborg) | A clone of Zuckerberg's Facebook.                                | Ruby on Rails, Jest |
+| **Tidbits** [server](https://github.com/mat-diak/snacks-server) [client](https://github.com/mikitaro-27/snacks-client)             | Habit building application, that helps you build healthy habits. | MongoDB, Express, React, Node, Jest, Heroku, Netlify, Bootstrap |
+| [**Acebook**](https://github.com/sumo-mailman/acebook-MorkSuckerborg) | A clone of Zuckerberg's Facebook.                                | Ruby on Rails, Heroku, Jest |
 | [**MyPassword**](https://github.com/sumo-mailman/password-generator)  | Random password generator for those still using 'abc123'.        | Javascript, CSS, HTML    |
 
 ## 💻 Tech Stack
@@ -21,7 +21,7 @@ I thrive in an ambiguous environment, always maintaining a student mentality and
 | **Frameworks** | React, Express, Node, Rails, Sinatra.    |
 | **Databases**  | PostgreSQL, MongoDB.                     |
 | **Tools**      | Command-line, Excel, Twilio (basic API). |
-| **Hosting**    | Heroku, AWS.                             |
+| **Hosting**    | Heroku, Netlify, AWS. |
 | **Testing**    | Capybara, RSpec, Jest.                   |
 
 ## 📈 Work Experience
